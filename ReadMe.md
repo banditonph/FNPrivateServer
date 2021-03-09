@@ -12,4 +12,4 @@ We would be happy if you credit us when using this ❤️
 ✔️ Access all cosmetics<br>
 ✔️ View the Item Shop<br>
 ✔️ Dashboard to edit your account settings<br>
-▶️ IN PROGRESS: Join others who use this Private Server<br>
+▶️ IN PROGRESS: Join others who use this Private Server
